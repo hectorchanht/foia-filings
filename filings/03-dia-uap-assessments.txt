@@ -1,0 +1,57 @@
+# FILING 3 — READY TO SUBMIT (fill in [BRACKETED] fields, review, then send yourself)
+# --------------------------------------------------------------------------------
+# TO:      Defense Intelligence Agency (FOIA Office)
+# WHERE:   Email to foia1@dodiis.mil  (per DIA's published FOIA instructions)
+#          Subject line: "FOIA Request — DIA UAP Finished Intelligence Products, 2020–Present"
+# HONEST EXPECTATIONS: DIA is heavily classification-bound. Expect significant
+#          (b)(1)/(b)(3) withholding or a Glomar on some portions. That is normal
+#          for DIA — the acknowledgement letter + case number still make this a
+#          real filing, and anything released is archive gold for realufo.org.
+# AFTER:   Log the case number in tracking-sheet.csv (row HF-003).
+# FEE:     Waiver requested on realufo.org public-interest grounds; $50 fallback cap.
+# --------------------------------------------------------------------------------
+
+[FULL NAME]
+[STREET ADDRESS]
+[CITY, STATE ZIP]
+[COUNTRY]
+[EMAIL]
+[PHONE]
+[DATE]
+
+Defense Intelligence Agency
+ATTN: IMO-1B (FOIA)
+7400 Pentagon
+Washington, DC 20301-7400
+(via email: foia1@dodiis.mil)
+
+Re: Freedom of Information Act Request — DIA Finished Intelligence Products Concerning Unidentified Anomalous Phenomena, 2020–Present
+
+Dear FOIA Officer:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I hereby request access to and copies of the following records:
+
+All finished intelligence assessments, analytical reports, and intelligence products produced by the Defense Intelligence Agency concerning unidentified anomalous phenomena, unidentified aerial phenomena, or unidentified flying objects, dated January 1, 2020 to the present.
+
+Because agency terminology has changed over time, please treat the terms "unidentified flying objects," "unidentified aerial phenomena," "unidentified anomalous phenomena," "UFO," and "UAP" as equivalent for the purposes of this search, and search all relevant record systems including electronic files.
+
+Please release all reasonably segregable non-exempt portions of responsive records. For any portion withheld, please cite the specific FOIA exemption justifying the withholding.
+
+In addition, I respectfully request a waiver of all fees associated with this request, pursuant to 5 U.S.C. § 552(a)(4)(A)(iii). Disclosure of the requested records is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government, and this request is not primarily in my commercial interest.
+
+1. PUBLIC INTEREST. The requested records concern the Defense Intelligence Agency's analysis of unidentified anomalous phenomena since 2020 — a period covering the UAP Task Force, its successor organizations, and sustained congressional direction on UAP transparency. DIA's analytical perspective on UAP is not currently available to the public. Disclosure would meaningfully inform public understanding of how military intelligence assesses unidentified phenomena.
+
+2. DISSEMINATION. The responsive records will be published through the open public archive at https://realufo.org — an open-source archive of declassified UAP records serving approximately 13,700 visitors per week, which regularly publishes declassified government records to the public at no charge.
+
+3. NO COMMERCIAL INTEREST. This request is made for non-commercial research and public-education purposes. I have no commercial interest in the requested records, and any public-interest value of disclosure substantially outweighs any private interest.
+
+For these reasons, I ask that all fees be waived. If the waiver is denied in whole or in part, I am willing to pay up to $50 in processing fees; please contact me for approval before incurring fees above that amount, and please provide a written explanation of the fee-waiver denial so that I may appeal it.
+
+I request that responsive records be provided in electronic format (PDF) via email where possible.
+
+Thank you for your attention to this request.
+
+Sincerely,
+
+[SIGNATURE]
+[PRINTED NAME]

@@ -1,0 +1,57 @@
+# FILING 2 — READY TO SUBMIT (fill in [BRACKETED] fields, review, then file yourself)
+# --------------------------------------------------------------------------------
+# TO:      Federal Bureau of Investigation (FOIPA)
+# WHERE:   https://efoia.fbi.gov  (create an account → "Submit a FOIA Request" → paste the letter below)
+# NOTE:    The FBI does NOT accept FOIA requests by email. Use the eFOIPA portal only.
+#          I checked the FBI Vault first: it holds older UFO material (Project Blue Book, Roswell,
+#          NICAP), but 2020–present UAP records are not posted there — so this request is not duplicative.
+# EXPECT:  Acknowledgement + case number within days; FBI queue is long — substantive response in months.
+# AFTER:   Log the case number in tracking-sheet.csv (row HF-002).
+# FEE:     Waiver requested on realufo.org public-interest grounds; $50 fallback cap.
+# --------------------------------------------------------------------------------
+
+[FULL NAME]
+[STREET ADDRESS]
+[CITY, STATE ZIP]
+[COUNTRY]
+[EMAIL]
+[PHONE]
+[DATE]
+
+Attn: Initial Processing Operations Unit
+Record/Information Dissemination Section
+Federal Bureau of Investigation
+200 Constitution Drive
+Winchester, VA 22602
+(via eFOIPA portal: https://efoia.fbi.gov)
+
+Re: Freedom of Information Act Request — FBI Records Concerning Unidentified Anomalous Phenomena, 2020–Present
+
+Dear FOIA Officer:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I hereby request access to and copies of the following records:
+
+All records maintained by the Federal Bureau of Investigation concerning unidentified anomalous phenomena, unidentified aerial phenomena, or unidentified flying objects, dated January 1, 2020 to the present — including but not limited to investigative memoranda, intelligence assessments, communications with other federal agencies regarding UAP, and internal guidance on the handling of UAP-related reports. This request expressly excludes records already published in the FBI Vault.
+
+Because agency terminology has changed over time, please treat the terms "unidentified flying objects," "unidentified aerial phenomena," "unidentified anomalous phenomena," "UFO," and "UAP" as equivalent for the purposes of this search, and search all relevant record systems including electronic files.
+
+Please release all reasonably segregable non-exempt portions of responsive records. For any portion withheld, please cite the specific FOIA exemption justifying the withholding.
+
+In addition, I respectfully request a waiver of all fees associated with this request, pursuant to 5 U.S.C. § 552(a)(4)(A)(iii). Disclosure of the requested records is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government, and this request is not primarily in my commercial interest.
+
+1. PUBLIC INTEREST. The requested records concern the Federal Bureau of Investigation's handling of unidentified anomalous phenomena reports since 2020 — a period covering the establishment of the UAP Task Force, AARO, and sustained congressional oversight. The FBI's contemporary role in UAP matters is not currently documented in publicly available records. Disclosure would meaningfully inform public understanding of how federal law enforcement engages with UAP reports.
+
+2. DISSEMINATION. The responsive records will be published through the open public archive at https://realufo.org — an open-source archive of declassified UAP records serving approximately 13,700 visitors per week, which regularly publishes declassified government records to the public at no charge.
+
+3. NO COMMERCIAL INTEREST. This request is made for non-commercial research and public-education purposes. I have no commercial interest in the requested records, and any public-interest value of disclosure substantially outweighs any private interest.
+
+For these reasons, I ask that all fees be waived. If the waiver is denied in whole or in part, I am willing to pay up to $50 in processing fees; please contact me for approval before incurring fees above that amount, and please provide a written explanation of the fee-waiver denial so that I may appeal it.
+
+I request that responsive records be provided in electronic format (PDF) via email where possible.
+
+Thank you for your attention to this request.
+
+Sincerely,
+
+[SIGNATURE]
+[PRINTED NAME]

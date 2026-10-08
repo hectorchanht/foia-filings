@@ -1,0 +1,63 @@
+# FILING 1 — READY TO SUBMIT (fill in [BRACKETED] fields, review, then file yourself)
+# --------------------------------------------------------------------------------
+# TO:      OSW/JS FOIA Requester Service Center (for AARO records)
+# WHERE:   https://www.esd.whs.mil/FOID/Submit-Request  (electronic portal — paste the letter below)
+# COMPONENT: on the form select "Office of the Secretary of War (OSW)".
+#          AARO is NOT in the component list (verified live 2026-10-07) — that is normal.
+#          AARO is not its own FOIA component; aaro.mil routes all FOIA requests to this
+#          OSW/JS center, and the published AARO reading-room cases (e.g. 24-F-1138) are
+#          OSW/JS case numbers. The letter below names AARO explicitly, so they route it
+#          internally. Do NOT pick another component (Navy/Air Force) — wrong routing = weeks lost.
+# EXPECT:  Acknowledgement + case number (e.g. 26-F-XXXX) within days; substantive response in months.
+# AFTER:   Log the case number in tracking-sheet.csv (row HF-001).
+# FEE:     Waiver requested on realufo.org public-interest grounds; $50 fallback cap.
+# --------------------------------------------------------------------------------
+
+[FULL NAME]
+[STREET ADDRESS]
+[CITY, STATE ZIP]
+[COUNTRY]
+[EMAIL]
+[PHONE]
+[DATE]
+
+FOIA Requester Service Center
+Office of the Secretary of War / Joint Staff (OSW/JS)
+Freedom of Information Division
+1155 Defense Pentagon
+Washington, DC 20301-1155
+
+Re: Freedom of Information Act Request — AARO Analytical Records on the 2004 Nimitz Carrier Strike Group UAP Encounters
+
+Dear FOIA Officer:
+
+Pursuant to the Freedom of Information Act, 5 U.S.C. § 552, I hereby request access to and copies of the following records:
+
+All final analytical reports, memoranda, briefings, and slide presentations produced by the All-domain Anomaly Resolution Office (AARO) concerning the November 2004 encounters between U.S. Navy aircraft of the USS Nimitz Carrier Strike Group and unidentified aerial phenomena off the coast of Southern California (commonly referred to as the "TIC TAC" incident), from July 15, 2022 to the present.
+
+Because agency terminology has changed over time, please treat the terms "unidentified flying objects," "unidentified aerial phenomena," "unidentified anomalous phenomena," "UFO," and "UAP" as equivalent for the purposes of this search, and search all relevant record systems including electronic files.
+
+The existence of AARO has been officially acknowledged by the Department of War (press release, July 20, 2022), and the 2004 Nimitz encounters have been officially acknowledged through the Department's authorized release of three U.S. Navy videos in April 2020. A neither-confirm-nor-deny (Glomar) response as to the existence of records would therefore be inappropriate.
+
+I request that the search include all relevant offices, files, and electronic record systems where responsive records are likely to be maintained, including records transferred to AARO from its predecessor organizations (the Unidentified Aerial Phenomena Task Force and the Airborne Object Identification and Management Synchronization Group).
+
+Please release all reasonably segregable non-exempt portions of responsive records. For any portion withheld, please cite the specific FOIA exemption justifying the withholding.
+
+In addition, I respectfully request a waiver of all fees associated with this request, pursuant to 5 U.S.C. § 552(a)(4)(A)(iii). Disclosure of the requested records is in the public interest because it is likely to contribute significantly to public understanding of the operations and activities of the government, and this request is not primarily in my commercial interest.
+
+1. PUBLIC INTEREST. The requested records concern the Department of War's investigation and analysis of unidentified anomalous phenomena — specifically, how the All-domain Anomaly Resolution Office evaluates and reports the November 2004 Nimitz encounters, a subject of sustained congressional oversight and public interest. This analytical material is not currently available to the public in this form. Disclosure would meaningfully inform public understanding of how the Department of War investigates aerial phenomena reported by military personnel.
+
+2. DISSEMINATION. The responsive records will be published through the open public archive at https://realufo.org — an open-source archive of declassified UAP records serving approximately 13,700 visitors per week, which regularly publishes declassified government records to the public at no charge.
+
+3. NO COMMERCIAL INTEREST. This request is made for non-commercial research and public-education purposes. I have no commercial interest in the requested records, and any public-interest value of disclosure substantially outweighs any private interest.
+
+For these reasons, I ask that all fees be waived. If the waiver is denied in whole or in part, I am willing to pay up to $50 in processing fees; please contact me for approval before incurring fees above that amount, and please provide a written explanation of the fee-waiver denial so that I may appeal it.
+
+I request that responsive records be provided in electronic format (PDF) via email where possible.
+
+Thank you for your attention to this request.
+
+Sincerely,
+
+[SIGNATURE]
+[PRINTED NAME]

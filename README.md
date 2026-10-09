@@ -15,3 +15,7 @@ Fill in the `[BRACKETED]` fields, read each letter once, then submit. Fee waiver
 ## Privacy note
 
 These are the unfilled templates. Personal details (name, address) are never committed here — fill them in locally at submit time.
+
+## Live site
+
+Published archive: https://strangedocs.com
